@@ -20,4 +20,4 @@ lorem   kdaskdfasof disqueria discos albumes prodcutoras discografcias fundacion
 
 ## DER
 
-![Diagrama Entidad Relación]([/der.png](https://github.com/user-attachments/assets/a1049985-9d3f-47ee-922a-833f14788e42))
+![Diagrama Entidad Relación](/der.png)
