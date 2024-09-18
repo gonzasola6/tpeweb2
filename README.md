@@ -1,8 +1,5 @@
 # Disqueria
 
-
-
-
 # Trabajo practico especial
 
 ## Integrantes:
