@@ -9,9 +9,10 @@
 ## Descripción:
 
 Diseñamos una base de datos que almacena un conjunto de elementos, que interaccionan entre sí. 
-El diseño se base en diferentes discos con sus datos, que se relacionan directamente con una discográfica. 
+El diseño se base en diferentes discos con sus datos, que se relacionan directamente con los autores y sus respectivos datos. 
 
-Dentro de la tabla 'discográficas' se encuentran los datos de cada una de las discográficas (nombre, fundación, país)  y el ID_Discografica, que es el que interacciona con los albumes
+Dentro de la tabla 'autores' se encuentran los datos de estos mismos, con el nombre, fundación, país y el ID_Autor, que es el que interacciona con los albumes, donde se encuentra el ID_Album. 
+
 
 ## DER
 
