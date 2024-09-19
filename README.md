@@ -25,7 +25,7 @@ La clave foránea ID_Autor en la tabla Álbumes se refiere a la clave primaria I
 
 Este diseño define las claves primarias y las relaciones entre las entidades, permitiendo modelar los ítems con sus respectivos detalles.
 
-Mediante los ID se puede relacionar los albumes con sus respectivos autores y poder encontrar sus atributos, ya que obtenemos una clave única, para acceder a los atributos de su respectiva tabla.
+Mediante los ID se puede relacionar los albumes con sus respectivos autores y poder encontrar sus atributos, ya que obtenemos una "clave única", para acceder a los atributos de su respectiva tabla.
 
 
 
