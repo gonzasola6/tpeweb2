@@ -32,3 +32,9 @@ Mediante los ID se puede relacionar los albumes con sus respectivos autores y po
 ## DER
 
 ![Diagrama Entidad Relación](/der.png)
+
+
+##EXPLICACION
+explicacion a :
+Se debe agregar al README.md una breve explicación de cómo desplegar el sitio en un servidor con Apache y MySQL, como también cualquier información necesaria para su uso, como pueden ser usuarios y contraseñas de administrador. 
+
