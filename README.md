@@ -35,8 +35,7 @@ Mediante los ID se puede relacionar los albumes con sus respectivos autores y po
 
 
 ##EXPLICACION
-explicacion a :
-Se debe agregar al README.md una breve explicación de cómo desplegar el sitio en un servidor con Apache y MySQL, como también cualquier información necesaria para su uso, como pueden ser usuarios y contraseñas de administrador. 
+ 
 
 Para desplegar el sitio web, se deberá descargar XAMPP, que es un sistema de Software Libre, que gestiona Bases de Datos y nos proporciona un entorno de Servidor Local. Este sistema viene con Apache y MySql incluido, siendo el primero el servidor web, y el segundo, el sistema de gestión de bases de datos. 
 Una vez instalado XAMPP, hay que activar ("start") Apache y MySql. Para abrir el proyecto, hay que descargarlo y ubicarlo dentro de la carpeta htdocs. Esta carpeta se encuentra dentro otra carpeta llamada XAMPP, ubicada en el disco C. 
