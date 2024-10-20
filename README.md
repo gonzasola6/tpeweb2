@@ -34,7 +34,7 @@ Mediante los ID se puede relacionar los albumes con sus respectivos autores y po
 ![Diagrama Entidad Relación](/der.png)
 
 
-##EXPLICACION
+##EXPLICACION DE: cómo desplegar el sitio en un servidor con Apache y MySQL
  
 
 Para desplegar el sitio web, se deberá descargar XAMPP, que es un sistema de Software Libre, que gestiona Bases de Datos y nos proporciona un entorno de Servidor Local. Este sistema viene con Apache y MySql incluido, siendo el primero el servidor web, y el segundo, el sistema de gestión de bases de datos. 
